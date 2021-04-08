@@ -1,6 +1,6 @@
 <h2>GreenCord App - part of environment project</h2>
 
-<p>Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI</p>
+<p>Realtime chat app with WebSockets using Node.js, Express, and Socket.io with Vanilla JS on the frontend with a custom UI.</p>
 <h4>Try it out in your machine...</h4>
 
 npm install<br>
