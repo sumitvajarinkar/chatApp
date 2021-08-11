@@ -15,7 +15,10 @@ To deploy this project run
 Go to localhost:3000
 ```
 
-<h4>Snap of chatapp</h4>
-<img src="1.png" alt="">
-<img src="2.png" alt="">
-<img src="3.png" alt="">
+<h2>Snap of chatapp</h2>
+<h4>Homepage<h4>
+<img src="./Screenshots/1.png" alt="">
+<h4>Chat UI<h4>
+<img src="./Screenshots/2.png" alt="">
+<h4>Chat UI<h4>
+<img src="./Screenshots/3.png" alt="">
