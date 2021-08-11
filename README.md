@@ -1,7 +1,7 @@
 <h2>GreenCord App - part of environment project</h2>
 
 <p>Realtime chat app with WebSockets using Node.js, Express, and Socket.io with Vanilla JS on the frontend with a custom UI.</p>
-## Deployment
+<h2>Deployment<h2>
 
 To deploy this project run
 
